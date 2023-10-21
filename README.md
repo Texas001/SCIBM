@@ -5,4 +5,6 @@ The overall framework of the model for simulating the spatiotemporal spread proc
 Discretizing time, space, and behavior is a prerequisite for simulating human behavior. On this basis, the Urban-EPR model, which is an extension and modification of the Exploration and Preferential Return model(EPR) (Song, Koren, et al. 2010; Schläpfer et al. 2021; Nie et al. 2022), can effectively express the mobility behavior logic of human individuals with spatial cognitive abilities in urban systems. The construction of the group spatial interaction model further describes social interactions and mobility behaviors occurring inside and outside the region from a micro-macro perspective. Finally, by coupling the infectious disease transmission dynamics model, the model is equipped with the ability to simulate the virus spread process in cities, as shown in Fig. 1(c).
  ![image](https://github.com/Texas001/SCIBM/assets/65767737/44da8860-84db-4fc3-853c-9e9f7b87863f)
 Fig. 1. Overall framework for simulating the spatiotemporal spread of urban epidemics. (a) The construction of the urban simulation environment. (b) The individual mobility. (c) The population spatial interaction with the epidemic transmission dynamics model
-
+## A case study of ZhuHai， China
+![image](https://github.com/Texas001/SCIBM/assets/65767737/9794d5de-09d7-41c2-b882-e6a3ab6de3d9)
+Fig. 2. Spatiotemporal slices of infection risk spread in Zhuhai City under three simulation scenarios
